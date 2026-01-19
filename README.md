@@ -19,6 +19,8 @@ git clone https://github.com/10kcriystal/Projeto-final-web.git
 2. Colocar o projeto na pasta do servidor web  
 (ex.: `htdocs` no XAMPP)
 
+3. Importar o fiqueiro .sql para o phpMyAdmin que está dentro da pasta BD-MySQL (necessário criar uma base de dados primeiro e depois importar).
+
 ## Funcionalidades
 - Homepage
 - Catálogo
